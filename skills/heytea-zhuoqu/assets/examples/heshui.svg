@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="喝8杯水" data-seed="43">
+  <title>喝8杯水</title>
+  <g fill="none" stroke="#34332f" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <g data-character="喝" transform="translate(66 61)">
+      <path d="M0 79 Q31 81 66 75 L63 96 Q31 98 4 98 L0 79" transform="translate(30 0)" />
+      <path d="M120 0 L118 35 Q158 32 206 33 L209 -1 Q161 4 120 0" />
+      <path d="M122 18 C130.3 18 141.889 19.3908 147.699 20.3808 C162.639 19.2408 188.4 16 205 16 " />
+      <path d="M132 42 Q125 60 104 70" />
+      <path d="M125 57 C138.9 57 157.966 61.828 167.696 65.7189 C192.716 61.2385 236.2 47 264 47 Q251 99 234 155 Q231 163 211 162 Q162 164 115 154" />
+      <path d="M139 76 L136 111 Q154 114 181 108" />
+      <path d="M155 68 Q153 86 146 91 M157 83 L172 95" />
+    </g>
+    <g data-character="8" transform="translate(439 58)">
+      <path d="M29 43 C12 32 18 13 32 11 C54 8 53 29 29 43 C-4 68 -16 116 22 127 C64 140 89 88 60 63 Q43 50 29 43" />
+    </g>
+    <g data-character="杯" transform="translate(63 266)">
+      <path d="M0 66 L62 62" transform="translate(16 0)" />
+      <path d="M25 38 Q23 85 26 126" transform="translate(16 0)" />
+      <path d="M23 72 Q16 90 -1 101 M31 82 L52 94" transform="translate(16 0)" />
+      <path d="M83 9 C101.2 9 123.009 14.9557 135.749 18.8884 C168.509 14.3599 228.6 2 265 2 " />
+      <path d="M202 12 Q189 44 157 65 Q124 85 82 93" />
+      <path d="M175 59 Q169 100 176 163" />
+      <path d="M198 69 Q225 74 265 102" />
+    </g>
+    <g data-character="水" transform="translate(405 259)">
+      <path d="M64 0 Q58 62 69 150 Q70 168 57 167 L13 158" />
+      <path d="M-14 61 Q3 63 31 53 Q22 90 -5 108" />
+      <path d="M119 40 L85 62" />
+      <path d="M72 41 Q102 79 126 95 Q148 110 172 111" />
+    </g>
+  </g>
+</svg>

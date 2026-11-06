@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="散步" data-seed="42">
+  <title>散步</title>
+  <g fill="none" stroke="#34332f" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <g data-character="散" transform="translate(65 52)">
+      <path d="M10 57 Q40 63 101 53" />
+      <path d="M32 44 L35 77 M76 39 L80 73" />
+      <path d="M4 84 C15.3 84 31.5321 89.8883 39.4421 92.943 C59.7821 89.4255 94.4 83 117 83 " />
+      <path d="M18 102 L18 158" />
+      <path d="M20 104 Q73 100 136 103 L130 158 L113 153" />
+      <path d="M21 121 C32.1 121 42.2969 123.418 50.0669 124.738 C70.0469 123.218 109.8 120 132 120 M20 140 C31.1 140 41.0771 142.42 48.8471 143.74 C68.8271 142.22 108.8 139 131 139 " />
+      <path d="M179 0 Q177 18 155 42" transform="translate(-8 0)" />
+      <path d="M173 24 Q206 20 244 15" transform="translate(-8 0)" />
+      <path d="M226 23 Q216 95 188 125 Q171 147 152 161" transform="translate(-8 0)" />
+      <path d="M165 70 Q207 134 264 157" transform="translate(-8 0)" />
+    </g>
+    <g data-character="步" transform="translate(290 241)">
+      <path d="M144 0 L145 34 M151 14 L185 9" />
+      <path d="M111 16 L114 38" />
+      <path d="M0 55 C24.8 55 47.6269 64.8416 64.9869 71.3669 C109.627 63.853 198.4 42 248 42 " />
+      <path d="M139 67 L140 99 L125 94" />
+      <path d="M108 70 L91 86 M170 65 L186 82" />
+      <path d="M204 102 Q170 151 113 163 Q61 177 -3 172" />
+    </g>
+  </g>
+</svg>

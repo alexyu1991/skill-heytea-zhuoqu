@@ -1,0 +1,4 @@
+interface:
+  display_name: "喜茶拙趣体"
+  short_description: "以夸张部件、粗实线条和可调的自由排版绘制中文手写字，输出独立 SVG"
+  default_prompt: "使用 $heytea-zhuoqu 把“散步”绘制成喜茶拙趣体，输出可编辑的 SVG。"
